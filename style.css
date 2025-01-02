@@ -19,7 +19,7 @@ font-family: "Open Sans", sans-serif;
 align-items: center;
 position: sticky;
 top: 0px;
-/* justify-content: space-evenly; */
+
 justify-content: space-evenly;
 background-color: #000000e3;
 }
@@ -40,13 +40,7 @@ display: flex;
 align-items: center;
 /* justify-content: space-around; */
 }
-.nav ul li i{
 
-
-    /* gap: 10px; */
-    /* padding-right: 50px; */
-    /* padding-left: 3px; */
-}
 .nav button{
     width: 130px;
     height: 40px;
